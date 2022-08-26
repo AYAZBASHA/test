@@ -1,0 +1,10 @@
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Entity\bin\Debug\netcoreapp3.1\MRI.API.Entity.deps.json
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Entity\bin\Debug\netcoreapp3.1\MRI.API.Entity.dll
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Entity\bin\Debug\netcoreapp3.1\MRI.API.Entity.pdb
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Entity\obj\Debug\netcoreapp3.1\MRI.API.Entity.csproj.AssemblyReference.cache
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Entity\obj\Debug\netcoreapp3.1\MRI.API.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Entity\obj\Debug\netcoreapp3.1\MRI.API.Entity.AssemblyInfoInputs.cache
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Entity\obj\Debug\netcoreapp3.1\MRI.API.Entity.AssemblyInfo.cs
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Entity\obj\Debug\netcoreapp3.1\MRI.API.Entity.csproj.CoreCompileInputs.cache
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Entity\obj\Debug\netcoreapp3.1\MRI.API.Entity.dll
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Entity\obj\Debug\netcoreapp3.1\MRI.API.Entity.pdb

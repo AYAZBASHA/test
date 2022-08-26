@@ -1,0 +1,17 @@
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Services\bin\Release\netcoreapp3.1\MRI.API.Services.deps.json
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Services\bin\Release\netcoreapp3.1\MRI.API.Services.dll
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Services\bin\Release\netcoreapp3.1\MRI.API.Services.pdb
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Services\bin\Release\netcoreapp3.1\MRI.API.Common.dll
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Services\bin\Release\netcoreapp3.1\MRI.API.Data.dll
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Services\bin\Release\netcoreapp3.1\MRI.API.Entity.dll
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Services\bin\Release\netcoreapp3.1\MRI.API.Common.pdb
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Services\bin\Release\netcoreapp3.1\MRI.API.Data.pdb
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Services\bin\Release\netcoreapp3.1\MRI.API.Entity.pdb
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Services\obj\Release\netcoreapp3.1\MRI.API.Services.csproj.AssemblyReference.cache
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Services\obj\Release\netcoreapp3.1\MRI.API.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Services\obj\Release\netcoreapp3.1\MRI.API.Services.AssemblyInfoInputs.cache
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Services\obj\Release\netcoreapp3.1\MRI.API.Services.AssemblyInfo.cs
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Services\obj\Release\netcoreapp3.1\MRI.API.Services.csproj.CoreCompileInputs.cache
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Services\obj\Release\netcoreapp3.1\MRI.API.Services.csproj.CopyComplete
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Services\obj\Release\netcoreapp3.1\MRI.API.Services.dll
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Services\obj\Release\netcoreapp3.1\MRI.API.Services.pdb

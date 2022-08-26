@@ -1,0 +1,15 @@
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Data\bin\Release\netcoreapp3.1\MRI.API.Data.deps.json
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Data\bin\Release\netcoreapp3.1\MRI.API.Data.dll
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Data\bin\Release\netcoreapp3.1\MRI.API.Data.pdb
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Data\bin\Release\netcoreapp3.1\MRI.API.Common.dll
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Data\bin\Release\netcoreapp3.1\MRI.API.Entity.dll
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Data\bin\Release\netcoreapp3.1\MRI.API.Common.pdb
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Data\bin\Release\netcoreapp3.1\MRI.API.Entity.pdb
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Data\obj\Release\netcoreapp3.1\MRI.API.Data.csproj.AssemblyReference.cache
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Data\obj\Release\netcoreapp3.1\MRI.API.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Data\obj\Release\netcoreapp3.1\MRI.API.Data.AssemblyInfoInputs.cache
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Data\obj\Release\netcoreapp3.1\MRI.API.Data.AssemblyInfo.cs
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Data\obj\Release\netcoreapp3.1\MRI.API.Data.csproj.CoreCompileInputs.cache
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Data\obj\Release\netcoreapp3.1\MRI.API.Data.csproj.CopyComplete
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Data\obj\Release\netcoreapp3.1\MRI.API.Data.dll
+C:\Jatan Vyas\Dotnet Core\MRI-API-EmployeeManagement\MRI.API.EmployeeManagement\MRI.API.Data\obj\Release\netcoreapp3.1\MRI.API.Data.pdb

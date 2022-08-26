@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "15c8526c-80f4-4de4-98c6-120c6f1e6814": {
+      "ProjectGuid": "15c8526c-80f4-4de4-98c6-120c6f1e6814",
+      "DisplayName": "MRI.API.Data",
+      "ColorIndex": 0
+    },
+    "5b2825d4-6813-416f-8e52-c6dee83e51d5": {
+      "ProjectGuid": "5b2825d4-6813-416f-8e52-c6dee83e51d5",
+      "DisplayName": "MRI.API.EmployeeManagement",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

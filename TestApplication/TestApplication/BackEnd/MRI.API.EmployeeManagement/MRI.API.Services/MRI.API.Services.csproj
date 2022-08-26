@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="10.0.4" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MRI.API.Common\MRI.API.Common.csproj" />
+    <ProjectReference Include="..\MRI.API.Data\MRI.API.Data.csproj" />
+    <ProjectReference Include="..\MRI.API.Entity\MRI.API.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

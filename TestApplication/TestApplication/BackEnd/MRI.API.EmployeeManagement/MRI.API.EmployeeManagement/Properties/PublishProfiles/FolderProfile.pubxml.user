@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Jatan Vyas\publish\APIPublish</_PublishTargetUrl>
+    <History>True|2022-05-01T09:56:35.1882920Z;True|2022-05-01T14:37:03.9594155+05:30;True|2022-05-01T14:28:49.2410487+05:30;True|2022-04-29T14:28:10.3792449+05:30;True|2022-04-29T14:20:52.4147510+05:30;True|2022-04-29T14:18:33.9306664+05:30;True|2022-04-29T13:13:54.6825238+05:30;True|2022-04-29T13:10:20.6618533+05:30;False|2022-04-29T13:09:31.9841711+05:30;False|2022-04-29T13:08:16.7011334+05:30;False|2022-04-29T13:07:41.0222161+05:30;False|2022-04-29T13:07:20.7885874+05:30;True|2022-04-29T12:56:11.3030101+05:30;True|2022-04-29T12:10:52.4584102+05:30;</History>
+  </PropertyGroup>
+</Project>
